@@ -1,0 +1,17 @@
+// exercises
+export const GET_EXERCISES = 'GET_EXERCISES';
+export const ADD_EXERCISE = 'ADD_EXERCISE';
+export const ADD_EXERCISE_COMPLETE = 'ADD_EXERCISE_COMPLETE';
+
+// categories
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const ADD_CATEGORY = 'ADD_CATEGORY';
+
+// modal
+export const SET_MODAL_VISIBILITY = 'SET_MODAL_VISIBILITY';
+
+export const CHANGE_TAB = 'CHANGE_TAB';
+
+// currentWorkout
+export const FETCH_CURRENT_WORKOUT = 'FETCH_CURRENT_WORKOUT';
+export const FETCH_CURRENT_WORKOUT_COMPLETE = 'FETCH_CURRENT_WORKOUT_COMPLETE';
